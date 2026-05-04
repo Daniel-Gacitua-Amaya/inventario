@@ -1,0 +1,8 @@
+body{font-family:Arial;background:#f4f4f4;margin:0;}
+header{background:#b11226;color:#fff;padding:15px;}
+.contenedor{padding:20px;}
+.card{background:#fff;padding:15px;margin-bottom:15px;border-radius:6px;}
+button{background:#b11226;color:#fff;border:none;padding:8px;cursor:pointer;}
+.tabla{width:100%;border-collapse:collapse;}
+.tabla th{background:#b11226;color:#fff;}
+.tabla td,.tabla th{border:1px solid #ccc;padding:5px;}
